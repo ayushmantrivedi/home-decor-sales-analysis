@@ -1,0 +1,9 @@
+Furniture Dataset Analysis Summary
+================================
+
+Total Products: 1000
+Total Categories: 8
+Date Range: 2023-01-01 to 2023-12-28
+Total Stock Value: $61,815,173.09
+Average Profit Margin: 47.1%
+Total Potential Revenue: $61,815,173.09
